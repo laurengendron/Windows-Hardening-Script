@@ -1,0 +1,54 @@
+What I Learned
+
+Working on this Windows Hardening Script helped me develop practical cybersecurity and IT skills, including:
+
+1. PowerShell Scripting
+
+Learned to automate system administration tasks using PowerShell.
+
+Practiced loops, conditional logic, error handling (try/catch), and output formatting.
+
+
+2. Virtual Macine Use
+
+Downloaded VirtualBox hosted hypervisor
+
+Created a VDI and installed Windows ISO
+
+Took Snaps shots and transferred script to the VM
+
+Ran the script in the VM
+
+3. Windows Security Hardening
+
+Gained hands-on understanding of hardening endpoints.
+
+Explored key security controls like:
+
+Disabling legacy protocols (SMBv1)
+
+Enabling firewall profiles
+
+Disabling unnecessary or risky services
+
+Enforcing strong password policies
+
+Managing user accounts like Guest
+
+4. Defensive Security Awareness
+
+Learned how small configuration changes reduce the attack surface.
+
+Developed awareness of common vulnerabilities in Windows systems.
+
+5. Reporting and Documentation
+
+Created structured output (software inventory) for auditing purposes.
+
+Learned how to clearly document scripts and instructions for others to follow.
+
+6. Portfolio and Professional Skills
+
+Practiced writing a professional, GitHub-ready project for cybersecurity portfolios.
+
+Learned how to explain technical work clearly to recruiters or hiring managers.
