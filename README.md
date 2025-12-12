@@ -13,7 +13,7 @@ A PowerShell-based Windows hardening script designed to apply essential security
 * Disables the built-in **Guest account**
 * Generates a report of installed software
 * Designed for beginners and adaptable for enterprise environments
-WARNING: “This script modifies system security settings. Run at your own risk.”
+* WARNING: “This script modifies system security settings. RUN AT YOUR OWN RISK.”
 ---
 
 ## 📂 Project Structure
