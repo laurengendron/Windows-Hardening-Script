@@ -23,6 +23,8 @@ Windows-Hardening-Script/
 │
 ├── harden.ps1                # Main PowerShell script
 ├── README.md                 # Documentation
+├── What-I-Learned            # Documentation
+
 
 ```
 
